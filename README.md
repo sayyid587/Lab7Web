@@ -13,20 +13,20 @@ Buat folder baru di direktori htdocs:
 
 `C:\xampp\htdocs\lab7_php_dasar`
 
-![gambar](img/2.png)
+![gambar](lab7_php_dasar/img/2.png)
 
 ---
 
 ## nyalakan web server 
 
-![gambar](img/1.png)
+![gambar](lab7_php_dasar/img/1.png)
 
 ---
 
 ## lalu untuk mengakses direktory tersebut gunakan URL:
 `http://localhost/lab7_php_dasar`
 
-![gambar](img/3.png)
+![gambar](lab7_php_dasar/img/3.png)
 
 ---
 
@@ -50,7 +50,7 @@ Buat folder baru di direktori htdocs:
 </html>
 ```
 
-![gambar](img/4.png)
+![gambar](lab7_php_dasar/img/4.png)
 
 ---
 
@@ -66,7 +66,7 @@ echo "NIM : " . $nim . "<br>";
 echo "Nama : $nama";
 ?>
 ```
-![gambar](img/5.png)
+![gambar](lab7_php_dasar/img/5.png)
 
 ---
 
@@ -86,7 +86,7 @@ Akses melalui:
 http://localhost/lab7_php_dasar/php_dasar.php?nama=sayyid
 
 
-![gambar](img/6.png)
+![gambar](lab7_php_dasar/img/6.png)
 
 ---
 
@@ -106,7 +106,7 @@ echo 'Selamat Datang ' . $_POST['nama'];
 ?>
 ```
 
-![gambar](img/7.png)
+![gambar](lab7_php_dasar/img/7.png)
 
 ---
 
@@ -123,7 +123,7 @@ echo "Gaji yang dibawa pulang = Rp. $thp"
 ?>
 ```
 
-![gambar](img/8.png)
+![gambar](lab7_php_dasar/img/8.png)
 
 ---
 
@@ -143,7 +143,7 @@ if ($nama_hari == "Sunday") {
 ?>
 ```
 
-![gambar](img/9.png)
+![gambar](lab7_php_dasar/img/9.png)
 
 ---
 
@@ -168,7 +168,7 @@ Contoh kondisi hari:
         }
 ?>
 ```
-![gambar](img/10.png)
+![gambar](lab7_php_dasar/img/10.png)
 
 ---
 
@@ -187,7 +187,7 @@ Contoh:
         }
 ?>
 ```
-![gambar](img/11.png)
+![gambar](lab7_php_dasar/img/11.png)
 
 ---
 
@@ -204,7 +204,7 @@ Contoh:
         }
 ?>
 ```
-![gambar](img/12.png)
+![gambar](lab7_php_dasar/img/12.png)
 
 ---
 
@@ -221,7 +221,7 @@ Contoh:
         } while ($i<=10);
 ?>
 ```
-![gambar](img/13.png)
+![gambar](lab7_php_dasar/img/13.png)
 
 ---
 
@@ -360,4 +360,4 @@ Hitung umur berdasarkan tanggal lahir, serta tampilkan gaji sesuai pekerjaan yan
 
 Contoh hasil setelah form dikirim:
 
-![gambar](img/14.png)
+![gambar](lab7_php_dasar/img/14.png)
